@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Aman Kumar Verma</h1>
 <h3 align="center">A passionate web developer as well as App developer from India</h3>
-<img  align="right" witdh="400" src="https://media.tenor.com/flflC6GFzO8AAAAC/sultan-alrefaei-programmer.gif">
+<img  align="right" alt="coding" witdh="400" src="https://media.tenor.com/flflC6GFzO8AAAAC/sultan-alrefaei-programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=18-05-amankumarverma&label=Profile%20views&color=0e75b6&style=flat" alt="18-05-amankumarverma" /> </p>
 
