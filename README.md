@@ -1,14 +1,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Aman Kumar Verma</h1>
-<h3 align="center">A passionate web developer as well as App developer from India</h3>
+<h3 align="center">A passionate Web Developer</h3>
 <img  align="right" alt="coding" witdh="400" src="https://media.tenor.com/flflC6GFzO8AAAAC/sultan-alrefaei-programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=18-05-amankumarverma&label=Profile%20views&color=0e75b6&style=flat" alt="18-05-amankumarverma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=18-05-amankumarverma" alt="18-05-amankumarverma" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **node.js**
 
 - 📫 How to reach me **akverma2017.jsr@gmail.com**
 
